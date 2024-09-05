@@ -1,6 +1,6 @@
 # Max heap data structure(Walmart)
 
-## project lead is calling it a power of two max heap. The rest of your team is doing their best to come up with a better name. The requirements of the data structure are as follows:
+#### project lead is calling it a power of two max heap. The rest of your team is doing their best to come up with a better name. The requirements of the data structure are as follows:
 
 * The heap must satisfy the heap property.
 * Every parent node in the heap must have 2^x children.
